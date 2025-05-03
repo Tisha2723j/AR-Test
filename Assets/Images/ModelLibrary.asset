@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ModelLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5188248163047160517
+  m_GuidHigh: 14652447865497114248
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5583406954171761050
+      m_GuidHigh: 6680284505551656612
+    m_SerializedTextureGuid:
+      m_GuidLow: 5765847565516718884
+      m_GuidHigh: 4182687821469281353
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Chip
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4852705664111410190
+      m_GuidHigh: 12841994908704614841
+    m_SerializedTextureGuid:
+      m_GuidLow: 4320246180451938493
+      m_GuidHigh: 4430809152911802666
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Arduino
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5560265250512927578
+      m_GuidHigh: 11818269567612281250
+    m_SerializedTextureGuid:
+      m_GuidLow: 4279566846091296611
+      m_GuidHigh: 13868464385179337691
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: RubicsCube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5548439450600876657
+      m_GuidHigh: 6855424419721483410
+    m_SerializedTextureGuid:
+      m_GuidLow: 15628829710818440318
+      m_GuidHigh: 14791579786009081866
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Generator
+    m_Texture: {fileID: 0}
